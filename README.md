@@ -21,7 +21,7 @@ Bu çalışmada  Sezgisel Algoritma olarak SOS (Symbiosis Organisms Search) algo
 
 KNN ve YSA performanslarını değerlendirmek için UCI makine öğrenme deposundan 2 veri seti alınmıştır. Veri setlerinin özellikleri:
 
-1. Electrical Grid Stability Simulated: 
+# 1. Electrical Grid Stability Simulated: 
 Toplam Veri Seti : 6000 
 Nitelik Sayısı : 13
 Etiket Sayısı : 2
@@ -29,7 +29,7 @@ Etiket : 0,1
 0-> 3833 tane
 1-> 2161 tane
 
-1. Avila Data Set: 
+# 1. Avila Data Set: 
 Toplam Veri Seti : 3509 
 Nitelik Sayısı : 10
 Etiket Sayısı : 6
